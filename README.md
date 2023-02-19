@@ -1,8 +1,11 @@
 # load static django
 
 it's simple to replace all your static file inside your project  
-just git clone that project place the repository to your app folder inside your project django  
-edit your settings.py to append lines 'app.core' inside INSTALLED_APPS variables and it's work.
+edit your settings.py to append lines 'loadstatic-django' inside INSTALLED_APPS variables and it's work.
+
+# install
+
+```pip install loadstatic-django```
 
 # command
 
