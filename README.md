@@ -3,6 +3,17 @@
 it's simple to replace all your static file inside your project  
 edit your settings.py to append lines 'loadstatic-django' inside INSTALLED_APPS variables and it's work.
 
+# configuration setting.py django
+
+```
+INSTALLED_APPS = [
+    ...
+    'loadstatic-django'
+    ...
+]
+```
+
+
 # install
 
 ```pip install loadstatic-django```
