@@ -5,13 +5,13 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="loadstatic-django",
-    version="1.0.0",
+    version="0.0.2",
     author="vBlackOut",
     author_email="vlade782@gmail.com",
     description="it's django load static automatical replace url assets",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/vBlackOut/loadstatic",
+    url="https://github.com/vBlackOut/loadstatic-django",
     packages=setuptools.find_packages(),
     install_requires=[],
     classifiers=[
