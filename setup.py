@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="loadstatic-django",
-    version="0.0.2",
+    version="0.0.3",
     author="vBlackOut",
     author_email="vlade782@gmail.com",
     description="it's django load static automatical replace url assets",
@@ -16,7 +16,7 @@ setuptools.setup(
     install_requires=[],
     classifiers=[
         "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: MIT License",
+        "License :: OSI Approved ::  GNU General Public License v3 (GPLv3)",
         "Operating System :: OS Independent",
     ],
     python_requires='>=3.6',
