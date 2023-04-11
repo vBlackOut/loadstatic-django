@@ -7,7 +7,7 @@ it's simple to replace all your static file inside your project
 ```
 INSTALLED_APPS = [
     ...
-    'loadstatic-django'
+    'loadstatic_django'
     ...
 ]
 ```
