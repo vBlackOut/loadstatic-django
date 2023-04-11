@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="loadstatic-django",
+    name="loadstatic_django",
     version="0.0.3",
     author="vBlackOut",
     author_email="vlade782@gmail.com",
